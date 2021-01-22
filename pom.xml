@@ -11,7 +11,7 @@
 
 
   <groupId>de.mpicbg.ulman</groupId>
-  <artifactId>imglib2-network-transfer</artifactId>
+  <artifactId>image-net-transfers-java</artifactId>
   <version>1.0.2-SNAPSHOT</version>
 
 	<organization>
@@ -19,7 +19,7 @@
 		<url>http://www.mpi-cbg.de</url>
 	</organization>
 
-  <name>DAIS plugin suite</name>
+  <name>Vlado's proprietary image transfer suite</name>
   <description>Scijava/imglib2 images are pinged back and forth over a network using ZeroMQ...</description>
   <url>https://github.com/xulman/DAIS-wp1.3</url>
   <inceptionYear>2017</inceptionYear>
@@ -73,7 +73,7 @@
 		<package-name>de.mpicbg.ulman.imgtransfer</package-name>
 		<license.licenseName>BSD 2-Clause</license.licenseName>
 		<license.copyrightOwners>xulman</license.copyrightOwners>
-		<license.projectName>imglib2-network-transfer</license.projectName>
+		<license.projectName>image-net-transfers</license.projectName>
 	</properties>
 
 
